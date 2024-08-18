@@ -24,4 +24,4 @@ def imga():
   numberOfPlate=str(numberOfPlate[sli2]+"-"+numberOfPlate[sli3])
   return numberOfPlate#returns string
 if __name__=='__main__':
-    app.run(debug=True)s
+    app.run(debug=True)
